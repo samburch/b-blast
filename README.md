@@ -4,7 +4,7 @@ A fun little 'astroids' style Object Orientated JavaScript game I created using 
 
 Simply click the mouse to start blasting the different colourd balls that start to move towards you.
 
-The game tracks your score as you go - 10 points for a hit and 100 for destriying enemies.
+The game tracks your score as you go - 10 points for a hit and 100 for destroying enemies.
 If you receive Game Over, the game checks to see if you have a new high score.
 
 In the future i intend to implement:
